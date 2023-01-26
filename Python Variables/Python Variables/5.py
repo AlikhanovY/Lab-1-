@@ -1,3 +1,5 @@
 x = "John"
-# is the same as
+print(x)
+#double quotes are the same as single quotes:
 x = 'John'
+print(x)
